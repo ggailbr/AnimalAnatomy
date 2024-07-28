@@ -12,6 +12,10 @@ the same controls to be used regardless of the subject.
 I utilized the XR interaction toolkit to simplfiy the VR components of this
 project.
 
+The goal is to allow as many `Systems` to be showing at once so the student
+can explore the full anatomy in chunks. Then allow them to isolate out a part
+or only a handful of systems and show those.
+
 ## Project Layout
 
 - `Player` : Standard OpenXR player. This handles the player view, controllers,
